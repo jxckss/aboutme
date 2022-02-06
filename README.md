@@ -1,2 +1,4 @@
-# aboutme
-Profile
+- 👋 Hi, I’m jxck
+- 👀 I’m interested in Coding 💻
+- 🌱 I’m currently learning HTML, Lua and Node.js
+- 📫 Contact me on Twitter - @0xJxck
