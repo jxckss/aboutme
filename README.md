@@ -1,4 +1,4 @@
 - 👋 Hi, I’m jxck
 - 👀 I’m interested in Coding 💻
-- 🌱 I’m currently learning HTML, Lua and Node.js
+- 🌱 Currently, I am making a GTA / FiveM London Map
 - 📫 Contact me on Twitter - @0xJxck
