@@ -1,4 +1,4 @@
 - 👋 Hi, I’m jxck
 - 👀 I’m interested in Coding 💻
-- 🌱 Currently, I am making a GTA / FiveM London Map
+- 🗺️ Currently, I am making a GTA / FiveM London Map
 - 📫 Contact me on Twitter - @0xJxck
