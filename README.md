@@ -5,6 +5,6 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jxckss.jxckss)
 
 <img src="https://github-readme-stats.vercel.app/api?username=jxckss&&show_icons=true&title_color=ffffff&icon_color=c565f7&text_color=c565f7&bg_color=151515">
